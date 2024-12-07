@@ -12,7 +12,7 @@
 # Training Data
 * Data dictionary
 
-[image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/084acdf431f3371a0a99c53eeb4c5b429c492410/data%20dictionary.png)
+![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/d731a2c6879ec55d8eb8b2f5cccdeb9901b8169b/Picture2.jpg)
 
 
 * Source of training data: Kaggle Houses Prices predictions, email pchirwa@gwu.edu, shepherd.chikwawawa@gwu.edu and robert.bhero@gwu.edu for more information
