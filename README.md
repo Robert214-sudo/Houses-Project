@@ -33,10 +33,11 @@
 * Hyperparameters: n_estimators: 100, random_state: 42
 # Quantitative Analysis
 * Model was assessed using:
+  
 | Dataset     |  RMSE           | MAE        | R- Squared   | Kaggle Test Error |
 |-------------|-----------------|------------|--------------|-------------------|
-|Training     | 11,164.32       | 6553.59    | 0.9791       |      -            |
-|Validation   |  28,775.41      | 17,519.76  | 0.892        |      -            |
+| Training    | 11,164.32       | 6553.59    | 0.9791       |                   |
+| Validation  |  28,775.41      | 17,519.76  | 0.892        |                   |
 | Test        |                 |            |              |  0,1512           |
 
 
