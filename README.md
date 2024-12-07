@@ -12,16 +12,7 @@
 # Training Data
 * Data dictionary
 
-| Name         | Modeling Role  | Measurement Level  | Description                                                           |
-|--------------|----------------|--------------------|-----------------------------------------------------------------------|
-|    ID        | Feature        | Identifier         | Unique identifier for each property                                   |
-| MS Subclass  | Feature        | Continous          | The building class                                                    |
-|              |                |                    |                                                                       |
-|              |                |                    |                                                                       |
-|              |                |                    |                                                                       |
-|              |                |                    |                                                                       |
-|              |                |                    |                                                                       |
-|              |                |                    |                                                                       |
+[image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/084acdf431f3371a0a99c53eeb4c5b429c492410/data%20dictionary.png)
 
 
 * Source of training data: Kaggle Houses Prices predictions, email pchirwa@gwu.edu, shepherd.chikwawawa@gwu.edu and robert.bhero@gwu.edu for more information
