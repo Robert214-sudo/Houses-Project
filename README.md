@@ -29,6 +29,7 @@
 * Version: scikit-learn 1.0.2
 * Hyperparameters: n_estimators: 100, random_state: 42
 # Quantitative Analysis
+![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
 
 ## Ethical Considerations in Using Predictive Models in Real Estate
 
