@@ -33,7 +33,11 @@
 * Hyperparameters: n_estimators: 100, random_state: 42
 # Quantitative Analysis
 * Model was assessed using:
-![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/eedc83415e4ffd3c2eafd38971e584d1584d659a/results.png)
+| Dataset     |  RMSE           | MAE        | R- Squared   | Kaggle Test Error |
+|-------------|-----------------|------------|--------------|-------------------|
+|Training     | 11,164.32       | 6553.59    | 0.9791       |      -            |
+|Validation   |  28,775.41      | 17,519.76  | 0.892        |      -            |
+| Test        |                 |            |              |  0,1512           |
 
 
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
