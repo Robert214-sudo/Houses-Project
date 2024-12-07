@@ -30,6 +30,7 @@
 * Hyperparameters: n_estimators: 100, random_state: 42
 # Quantitative Analysis
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
+![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/7730dfba70b1e83f39274a230f0cc672092f7f10/learning%20curve%20picture.png)
 
 ## Ethical Considerations in Using Predictive Models in Real Estate
 
