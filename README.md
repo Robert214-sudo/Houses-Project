@@ -12,6 +12,18 @@
 # Training Data
 * Data dictionary
 
+| Name         | Modeling Role  | Measurement Level  | Description                                                           |
+|--------------|----------------|--------------------|-----------------------------------------------------------------------|
+|    ID        | Feature        | Identifier         | Unique identifier for each property                                   |
+| MS Subclass  | Feature        | Continous          | The building class                                                    |
+|              |                |                    |                                                                       |
+|              |                |                    |                                                                       |
+|              |                |                    |                                                                       |
+|              |                |                    |                                                                       |
+|              |                |                    |                                                                       |
+|              |                |                    |                                                                       |
+
+
 * Source of training data: Kaggle Houses Prices predictions, email pchirwa@gwu.edu, shepherd.chikwawawa@gwu.edu and robert.bhero@gwu.edu for more information
 * How training data was divided into training and validation data: 80% training, 20% validation
 * Number of rows in training and validation data:
