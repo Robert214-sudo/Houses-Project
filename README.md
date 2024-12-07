@@ -17,9 +17,10 @@
 * Number of rows in training and validation data:
    * Training rows: 1168 rows
    * Validation rows: 292 rows
-
-
-* State any differences in columns between training and test data: SalesPrice in test data is empty and is the one being predicted
+# Test data
+* Source of test data: Kaggle House Prices Prediction, email robert.bhero@gwu.edu, shepherd.chikwawawa@gwu.edu, pchirwa@gwu.edu for more information
+* Number of rows in test data: 1459 rows
+* State any difference in columns between training and test data: SalesPrices column in test data is empty since it is the variable being predicted, whilst in training data the column has values
 # Model Details
 * Columns used as inputs in the final model: ‘MSSubClass’,  ,MSZoning’ , ‘LotFrontage’, ‘ LotArea’ , ‘Street’,  ‘ Alley’,   ‘LotShape’ ,  ‘ LandContour’ , ‘Utilities’ , ‘LotConfig’, ‘LandSlope’,  ‘Neighborhood’,  ‘Condition1’ ,  ‘Condition2’, ‘BldgType’, ‘HouseStyle’, ‘OverallQual’ , ‘ OverallCond’ , ‘ YearBuilt’,  ‘ YearRemodAdd’, ‘RoofStyle’,  ‘RoofMatl’ ,  ‘Exterior1st’,  ‘Exterior2nd’ , ‘ MasVnrType’ , ‘MasVnrArea’ , ‘ExterQual’, ‘ExterCond’ ,  ‘ Foundation’ , ‘BsmtQual’,  ‘ BsmtCond ‘,  ‘BsmtExposure’ ,  ‘ BsmtFinType1’,  ‘BsmtFinSF1’ ,  ‘BsmtFinType2’ , ‘BsmtFinSF2’, ‘  BsmtUnfSF’,  ‘TotalBsmtSF’ ,  ‘Heating’,  ‘HeatingQC’ ,  ‘ CentralAir’ , ‘Electrical’,  ‘1stFlrSF’,  ‘2ndFlrSF’,  ‘LowQualFinSF’ ,  ‘GrLivArea’ ,  ‘BsmtFullBath’ , ‘ BsmtHalfBath’,  ‘FullBath’ , ‘HalfBath’,  ‘BedroomAbvGr’ ,  ‘ KitchenAbvGr’,  ‘ KitchenQual’ ,  ‘TotRmsAbvGrd’, ‘Functional’, ‘Fireplaces’,  ‘FireplaceQu’,  ‘GarageType’,  ‘GarageYrBlt’, ‘GarageFinish’ ,  ‘GarageCars’ ,  ‘GarageArea’,  ‘GarageQual’ , ‘ GarageCond’ , ‘PavedDrive’ ,  ‘ WoodDeckSF’,  ‘OpenPorchSF’,  ‘EnclosedPorch’,  ‘3SsnPorch’, ‘ ScreenPorch’, ‘PoolArea’, ‘  PoolQC ‘,  ‘ Fence’, ‘ MiscFeature ‘, ‘ MiscVal’,  ‘MoSold’,  ‘YrSold’,  ‘SaleType’ , ‘SaleCondition’ , ‘SalePrice’
 * Column used as target in the final model: SalesPrice
@@ -27,6 +28,7 @@
 * Software Used: Python with scikit-learn
 * Version: scikit-learn 1.0.2
 * Hyperparameters: n_estimators: 100, random_state: 42
+# Quantitative Analysis
 
 ## Ethical Considerations in Using Predictive Models in Real Estate
 
