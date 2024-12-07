@@ -31,8 +31,14 @@
 # Quantitative Analysis
 * Model was assessed using:
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/eedc83415e4ffd3c2eafd38971e584d1584d659a/results.png)
+* Correlation Heatman¶
+A heatmap is a graphical representation of data where individual values are represented by varying colors. Heatmaps are widely used for analyzing relationships and feature importance.
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
+* Learning Curve
+To show how the model's performance changes with different training data sizes. It can reveal underfitting or overfitting
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/7730dfba70b1e83f39274a230f0cc672092f7f10/learning%20curve%20picture.png)
+* Prediction vs. Actual Values Plot¶
+To compare the predicted values to the actual values, showing how closely the predictions align with reality. Ideally, points should lie along the diagonal line.
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/698dc3fcfb8a20778ed8df395a9347b1d7df1ad5/actual%20vs%20predicted%20values.png)
 
 ## Ethical Considerations in Using Predictive Models in Real Estate
