@@ -4,16 +4,21 @@
 * Model date: November 2024
 * Model version: 1.0
 * License: MIT
-* Model implementation c
+* Model implementation:
 ## Intended Use
-* Primary intended uses:
-* Primary intended users:
+* Primary intended uses: This model is an educational example for random forest regression model for predicting house prices based on historical data. It is intended to demonstrate the application of random forest model in data analysis and predictive modeling
+* Primary intended users: Students and those that want to learn about modeling
 * Out of scope use cases: Any use beyond an educational example is out of scope
 # Training Data
 * Data dictionary
 
-* Source of training data: Kaggle Houses Prices, email pchirwa@gwu.edu, shepherd.chikwawawa@gwu.edu and robert.bhero@gwu.edu for more information
-* Number of rows in test data: 1,460
+* Source of training data: Kaggle Houses Prices predictions, email pchirwa@gwu.edu, shepherd.chikwawawa@gwu.edu and robert.bhero@gwu.edu for more information
+* How training data was divided into training and validation data: 80% training, 20% validation
+* Number of rows in training and validation data:
+   * Training rows: 1168 rows
+   * Validation rows: 292 rows
+
+
 * State any differences in columns between training and test data: SalesPrice in test data is empty and is the one being predicted
 # Model Details
 * Columns used as inputs in the final model: ‘MSSubClass’,  ,MSZoning’ , ‘LotFrontage’, ‘ LotArea’ , ‘Street’,  ‘ Alley’,   ‘LotShape’ ,  ‘ LandContour’ , ‘Utilities’ , ‘LotConfig’, ‘LandSlope’,  ‘Neighborhood’,  ‘Condition1’ ,  ‘Condition2’, ‘BldgType’, ‘HouseStyle’, ‘OverallQual’ , ‘ OverallCond’ , ‘ YearBuilt’,  ‘ YearRemodAdd’, ‘RoofStyle’,  ‘RoofMatl’ ,  ‘Exterior1st’,  ‘Exterior2nd’ , ‘ MasVnrType’ , ‘MasVnrArea’ , ‘ExterQual’, ‘ExterCond’ ,  ‘ Foundation’ , ‘BsmtQual’,  ‘ BsmtCond ‘,  ‘BsmtExposure’ ,  ‘ BsmtFinType1’,  ‘BsmtFinSF1’ ,  ‘BsmtFinType2’ , ‘BsmtFinSF2’, ‘  BsmtUnfSF’,  ‘TotalBsmtSF’ ,  ‘Heating’,  ‘HeatingQC’ ,  ‘ CentralAir’ , ‘Electrical’,  ‘1stFlrSF’,  ‘2ndFlrSF’,  ‘LowQualFinSF’ ,  ‘GrLivArea’ ,  ‘BsmtFullBath’ , ‘ BsmtHalfBath’,  ‘FullBath’ , ‘HalfBath’,  ‘BedroomAbvGr’ ,  ‘ KitchenAbvGr’,  ‘ KitchenQual’ ,  ‘TotRmsAbvGrd’, ‘Functional’, ‘Fireplaces’,  ‘FireplaceQu’,  ‘GarageType’,  ‘GarageYrBlt’, ‘GarageFinish’ ,  ‘GarageCars’ ,  ‘GarageArea’,  ‘GarageQual’ , ‘ GarageCond’ , ‘PavedDrive’ ,  ‘ WoodDeckSF’,  ‘OpenPorchSF’,  ‘EnclosedPorch’,  ‘3SsnPorch’, ‘ ScreenPorch’, ‘PoolArea’, ‘  PoolQC ‘,  ‘ Fence’, ‘ MiscFeature ‘, ‘ MiscVal’,  ‘MoSold’,  ‘YrSold’,  ‘SaleType’ , ‘SaleCondition’ , ‘SalePrice’
