@@ -52,7 +52,7 @@
 
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/8ff845c728e618c250bab464accd49920be30166/actual%20vs%20predicted%202.png)
 
-!{image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/0426aad6484a1222d5df57687b9f0b3aa49c975b/distribution.png)
+![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/0426aad6484a1222d5df57687b9f0b3aa49c975b/distribution.png)
 
 
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/ced24a4c7310372b273d666bb48a8b963ca2cf26/distribution%20of%20sales%20data.png)
