@@ -34,7 +34,7 @@
 # Quantitative Analysis
 * Model was assessed using:
   
-| Dataset     |  RMSE           | MAE        | R- Squared   | Kaggle Test Error |
+| Dataset     |  RMSE           | MAE        | R- Squared   |Public RMSLE score |
 |-------------|-----------------|------------|--------------|-------------------|
 | Training    | 11,164.32       | 6553.59    | 0.9791       |                   |
 | Validation  |  28,775.41      | 17,519.76  | 0.892        |                   |
@@ -44,7 +44,7 @@
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
 
 
-![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/7730dfba70b1e83f39274a230f0cc672092f7f10/learning%20curve%20picture.png)
+![image alt]
 
 
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/698dc3fcfb8a20778ed8df395a9347b1d7df1ad5/actual%20vs%20predicted%20values.png)
