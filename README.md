@@ -41,13 +41,20 @@
 | Test(kaggle)|   n/a           |   n/a      | n/a          | 0,151             |
 
 
+
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
+
 
 
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/18dbafdc9ee6088988110b6cfbc618814865952d/top%20ten%20features.png)
 
 
+
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/698dc3fcfb8a20778ed8df395a9347b1d7df1ad5/actual%20vs%20predicted%20values.png)
+
+
+![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/ced24a4c7310372b273d666bb48a8b963ca2cf26/distribution%20of%20sales%20data.png)
+
 
 ## Ethical Considerations in Using Predictive Models in Real Estate
 
