@@ -44,7 +44,7 @@
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/c08918491a9840f5ef95aff74a44db9bfd15fc84/correlation%20heatmap.png)
 
 
-![image alt]
+![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/6da3ad7ea8cef30fe31faf8a71e2d5a30044770c/residual%20vs%20predicted.png)
 
 
 ![image alt](https://github.com/Robert214-sudo-creator/Houses-Project/blob/698dc3fcfb8a20778ed8df395a9347b1d7df1ad5/actual%20vs%20predicted%20values.png)
