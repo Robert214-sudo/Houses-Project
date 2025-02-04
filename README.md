@@ -1,6 +1,6 @@
 # Houses Prices- Random Forest Regression Model
 ## Basic Information
-* Person or organization developing model: Robert Bhero, robert.bhero@gwu.edu , Shepherd Chikwawawa, shepherd.chikwawawa@gwu.edu, Pamela Chirwa, pchirwa@gwu.edu
+* Person or organization developing model: Robert Bhero, robert.bhero@gwu.edu , Shepherd Chikwawawa, shepherd.chikwawawa@gwu.edu, malcolm.munoriyarwa@gwu.edu
 * Model date: November 2024
 * Model version: 1.0
 * License: MIT
